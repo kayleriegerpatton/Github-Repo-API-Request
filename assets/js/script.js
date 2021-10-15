@@ -16,7 +16,7 @@ const renderCards = function (repos) {
   <div class="card-body">
     <h5 class="card-title">${repoName}</h5>
     <p class="card-text"></p>
-    <a href="${repoLink}" class="btn btn-primary">Deployed Application</a>
+    <a href="${repoLink}" class="btn btn-primary">Check it out!</a>
   </div>
 </div>`;
     // append to main container
